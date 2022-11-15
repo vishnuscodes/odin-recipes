@@ -1,0 +1,19 @@
+img{
+    height: 760px;
+    width: 1000px;
+}
+
+body{
+    background-color:antiquewhite
+}
+
+h1,h2{
+    background-color:darkslategrey;
+    color: antiquewhite;
+}
+
+.main-recipe-page{
+    color: black;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
